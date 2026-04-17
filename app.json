@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "reactnative-quiz",
+    "slug": "reactnative-quiz",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"]
+  }
+}
